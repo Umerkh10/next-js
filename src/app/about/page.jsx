@@ -1,10 +1,10 @@
 import React from 'react'
 import Navbar from './Navbar'
 
-const Page = () => {
+const AboutPage = () => {
   return (
     <div>page</div>
   )
 }
 
-export default Page
+export default AboutPage

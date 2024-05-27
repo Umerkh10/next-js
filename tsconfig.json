@@ -27,7 +27,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/app/api/todos/route.js", "src/app/editAction.jsx"  ],
   "exclude": [
     "node_modules"
   ]
